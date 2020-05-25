@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/random",
-	"version": "3.1.17",
+	"version": "3.1.18",
 	"description": "ctx-core random",
 	"type": "module",
 	"main": "lib.js",
