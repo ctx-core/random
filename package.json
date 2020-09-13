@@ -2,6 +2,20 @@
 	"name": "@ctx-core/random",
 	"version": "3.1.33",
 	"description": "ctx-core random",
+	"keywords": [
+		"ctx-core",
+		"random"
+	],
+	"homepage": "https://github.com/ctx-core/random#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/random/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/random/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,28 +23,14 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/random/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"random"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/random/issues"
-	},
-	"homepage": "https://github.com/ctx-core/random#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "42968dec5c2105e613e2ca5fc04fde77c472d935"
 }
