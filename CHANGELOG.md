@@ -1,5 +1,18 @@
 # @ctx-core/random
 
+## 4.1.0
+
+### Minor Changes
+
+- \_distribution_random_float as \_float**random**distribution
+- \_uniform_random as \_random\_\_uniform
+- \_normal_random_float as \_float**random**normal
+- \_uniform_random_float as \_float**random**uniform
+- \_uniform_random_int as \_int**random**uniform
+- \_distribution_random_int as \_int**random**distribution
+- \_normal_random as \_random\_\_normal
+- \_normal_random_int as \_int**random**normal
+
 ## 4.0.5
 
 ### Patch Changes
