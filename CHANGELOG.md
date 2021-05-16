@@ -1,5 +1,11 @@
 # @ctx-core/random
 
+## 5.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+
 ## 5.1.1
 
 ### Patch Changes
