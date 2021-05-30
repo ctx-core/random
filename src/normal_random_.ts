@@ -1,4 +1,4 @@
-export function _normal_random() {
+export function normal_random_() {
 	let u1: number, u2: number, picked = -1
 	// We reject values outside of the interval [0, 1]
 	// TODO: check if it is ok to do that?
@@ -19,5 +19,5 @@ export function _normal_random() {
 	return picked
 }
 export {
-	_normal_random as _random__normal
+	normal_random_ as _random__normal
 }
