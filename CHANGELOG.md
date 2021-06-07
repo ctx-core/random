@@ -1,5 +1,11 @@
 # @ctx-core/random
 
+## 6.0.2
+
+### Patch Changes
+
+- version bump: run build
+
 ## 6.0.1
 
 ### Patch Changes
