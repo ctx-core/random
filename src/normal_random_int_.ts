@@ -1,5 +1,5 @@
-import { distribution_random_int_ } from './distribution_random_int_'
-import { normal_random_ } from './normal_random_'
+import { distribution_random_int_ } from './distribution_random_int_.js'
+import { normal_random_ } from './normal_random_.js'
 export function normal_random_int_(min = 0, max = 1) {
 	return distribution_random_int_(min, max, normal_random_)
 }
