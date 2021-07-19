@@ -1,5 +1,11 @@
 # @ctx-core/random
 
+## 8.0.11
+
+### Patch Changes
+
+- fix: "exports": "./package.json": "./package.json"
+
 ## 8.0.10
 
 ### Patch Changes
