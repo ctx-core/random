@@ -1,4 +1,4 @@
-export function uniform_random_() {
+export function uniform_random_():number {
 	return Math.random()
 }
 export {

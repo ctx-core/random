@@ -1,6 +1,6 @@
 import { distribution_random_float_ } from './distribution_random_float_.js'
 import { normal_random_ } from './normal_random_.js'
-export function normal_random_float_(min = 0.0, max = 1.0) {
+export function normal_random_float_(min = 0.0, max = 1.0):number {
 	return distribution_random_float_(min, max, normal_random_)
 }
 export {
