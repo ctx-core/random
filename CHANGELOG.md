@@ -1,5 +1,11 @@
 # @ctx-core/random
 
+## 8.0.27
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 8.0.26
 
 ### Patch Changes
