@@ -1,5 +1,11 @@
 # @ctx-core/random
 
+## 8.2.119
+
+### Patch Changes
+
+- ctx-core: ^5.35.0 -> ^5.35.1
+
 ## 8.2.118
 
 ### Patch Changes
