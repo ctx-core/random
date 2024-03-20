@@ -1,5 +1,13 @@
 # @ctx-core/random
 
+## 8.2.156
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 8.2.155
 
 ### Patch Changes
